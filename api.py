@@ -1,4 +1,3 @@
-# routes.py
 from flask import jsonify, request
 from conection_db import get_db_connection
 
